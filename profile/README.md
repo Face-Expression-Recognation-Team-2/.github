@@ -1,12 +1,13 @@
-## Hi there 👋
+## Face Expression Recognation
 
-<!--
+- Team         : Team 2
+- Mata kuliah  : Visi Komputer
 
-**Here are some ideas to get you started:**
+## 📝 Deskripsi 
+Tugas Pengenalan Ekspresi Wajah menggunakan teknologi pengenalan pola untuk mengidentifikasi dan mengklasifikasikan ekspresi wajah manusia.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 😁💪 Anggota :
+- Michael Emmanuel Purba
+- Angga Zefanya Situmorang 
+- Muhammad Wahyu Pratama Lubis
+- Bob Presly Manurung
